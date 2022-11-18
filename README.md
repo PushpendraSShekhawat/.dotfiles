@@ -1,6 +1,6 @@
 # My Dotfiles
 These are my dotfile configuration files for different software in Bash.
 ## .vimrc
-This is my custom .vimrc configuration for Vim.
+  My .vimrc file adds some customization to my shell.
 ## .bashrc
-This is my custom .bashrc configuration for Bash.
+  My .bashrc file created multiple functions that can be used inside of my terminal.
