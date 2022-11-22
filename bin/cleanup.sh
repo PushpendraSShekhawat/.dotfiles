@@ -1,8 +1,8 @@
 #!/bin/bash
 
 rm -f ~/.vimrc
-EMPTY=""
+E=""
 VAR="source ~/.dotfiles/bashrc_custom"
-sed -i "s|$VAR|$EMPTY|p" ~/.bashrc
+sed -i "s|source ~/.dotfiles/bashrc_custom| |g" ~/.bashrc
 
 rm -r ~/.TRASH
